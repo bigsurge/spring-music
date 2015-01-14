@@ -125,4 +125,4 @@ tomcatRun {
     outputFile = file('tomcat.log')
 }
 
-
+defaultTasks "clean", "build", "installApp"
