@@ -1,5 +1,5 @@
 Spring Music
-============
+=============
 [![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
 
 This is a sample application for using database services on [Cloud Foundry](http://cloudfoundry.com)
